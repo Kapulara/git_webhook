@@ -1,0 +1,12 @@
+[
+  {
+    "ref": "master",
+    "tasks": [
+      "gulp:default",
+      "npm:test"
+    ]
+  },
+  {
+    "ref": "deploy"
+  }
+]
